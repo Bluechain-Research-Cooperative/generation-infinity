@@ -8,7 +8,7 @@ built as part of the Erasmus+ Generation Infinity Project - [https://generationi
 
 ## What to do here
 
-Before delving into the details of our work, you can visit our **[Wiki page](https://github.com/Bluechain-Research-Cooperative/eco-mystery/wiki)**, which contains the Software Requirements Specification (SRS) document for the project!
+Before delving into the details of our work, you can visit our **[Wiki page](https://github.com/Bluechain-Research-Cooperative/generation-infinity/wiki)**, which contains the Software Requirements Specification (SRS) document for the project!
 
 ## Development progress!
 
